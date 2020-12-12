@@ -1,2 +1,5 @@
 # TestProject
-Basic project to learn git
+
+Project for learning basics of `git`
+
+Feel free to contribute!
